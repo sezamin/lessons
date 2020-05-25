@@ -1,0 +1,12 @@
+{
+    "name": "shukurov/lessons",
+    "authors": [
+        {
+            "name": "shukurov",
+            "email": "shukurove@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.34"
+    }
+}
